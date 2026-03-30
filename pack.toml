@@ -1,0 +1,16 @@
+name = "Hungry Railways"
+author = "kodiitulip"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fc982aa8ebf55a0f87a0a3d3084a8ad5cb57fa9daaa293b5c3f20f7e92c6c502"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.222"
+
+[options]
+datapack-folder = "datapacks"

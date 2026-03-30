@@ -1,0 +1,13 @@
+name = "Reeling Scythes"
+filename = "reeling_scythes-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YATddOpI/versions/JlORV0y1/reeling_scythes-2.0.2.jar"
+hash-format = "sha512"
+hash = "c1bacea07fb7fcf7319c102eb3abf3e7b2c05a62bf2d0c37aa2b8689c514301ca0c4a50aa5b3c3c5e589357a7884fe5111bd81d55bed4ccdc66d995e8869f592"
+
+[update]
+[update.modrinth]
+mod-id = "YATddOpI"
+version = "JlORV0y1"
