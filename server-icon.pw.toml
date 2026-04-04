@@ -1,0 +1,8 @@
+name = "server-icon"
+filename = "iconx64.png"
+side = "server"
+
+[download]
+url = "https://github.com/blossom-garden/hungry-railways/raw/main/.github/attachments/iconx64.png"
+hash-format = "sha256"
+hash = "04310b000ffdb0f0f6e70ce300e2f6937039b152a7d91056c31f782db4a8d930"

@@ -21,6 +21,10 @@ file = "datapacks/rechiselingchipped.zip"
 hash = "cc6a4f711e9b5fbab5be190fbb307b468bd29d502397c35f828ac5e7ba42b1cb"
 
 [[files]]
+file = "icon.png"
+hash = "5817b27ddf46f955644881464dd805bfbc1c8936aee7fdabfa0144e0c35190cd"
+
+[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "c255cf4cd29718e3ab0a4c18df8bb7b626e0092c5aad7b4e67f34fc1ad4492f8"
 metafile = true
@@ -626,11 +630,6 @@ hash = "f86f2908b1b8047049d0beff5cb67ae20cd5efb61a0e92287ecda2a1f64ad21e"
 metafile = true
 
 [[files]]
-file = "mods/mcwifipnp.pw.toml"
-hash = "6fc64d152cc682c09bf8092d55b7f5341a4fab9dbd1c17a6246ec2405965cb4f"
-metafile = true
-
-[[files]]
 file = "mods/minecraft-cursor.pw.toml"
 hash = "3afb92bc9bf483df800a4ef9aa327642f170e3fdfdc71bbd19676ad70c25d933"
 metafile = true
@@ -672,7 +671,7 @@ metafile = true
 
 [[files]]
 file = "mods/overbalanced.pw.toml"
-hash = "e24153d95900314c5d9735c1c8dd278839db4215fa956f1351d5e97f2dafeced"
+hash = "69b41430f02e6e77561e2e4bdd4494139f866d8d04ccd1c6c20ef636b2b4d797"
 metafile = true
 
 [[files]]
@@ -852,17 +851,17 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "c9a425395df10f2aa4cf2d4c2549adf08e223ec955df08a1ffe9cbe539e54aaa"
+hash = "117a15bce5ce46c35ca1eb667e64fa4b1174e5d615312b498d37ad5e505b8ec4"
 metafile = true
 
 [[files]]
 file = "mods/terralith-biome-saplings.pw.toml"
-hash = "61d849b5dd59f7f9ccf950bbce846363c89dacd6a68af977c7cfa2f29c0ef8a6"
+hash = "c03e6c09b45a4adaf1ff83c4ab10218329f375c2a622ac0960bea604810b0098"
 metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+hash = "77a945b5ff32f1a821cd2942bcd2fb411740061f022efad3e48eaa8577b48636"
 metafile = true
 
 [[files]]
@@ -933,11 +932,6 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
-metafile = true
-
-[[files]]
-file = "mods/yungs-api.pw.toml"
-hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
 
 [[files]]
@@ -1041,4 +1035,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/wisps-colourful-wildflowers.pw.toml"
 hash = "051090b5ee11bb3553056e7f74b1eec3a8fc07187e4dc5e3d75ae6baae84d4c2"
+metafile = true
+
+[[files]]
+file = "server-icon.pw.toml"
+hash = "850a27af8f12ef0880c0175b29b20651f2286e9d113e7f805e5e0fa3f4944a86"
 metafile = true
