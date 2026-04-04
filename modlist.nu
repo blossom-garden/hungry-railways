@@ -74,7 +74,7 @@ export def "export" []: nothing -> string {
 }
 
 # Returns the most recently added files
-export def changelog [] {
+export def changelog []: nothing -> string {
   let list: list<record<name: string, id: any, provider: string>> = ls -l **/*.pw.toml
   | group-by created | transpose date count
   | first 1 | get count | get 0
@@ -95,5 +95,5 @@ export def changelog [] {
     $"- [($name)]\(($url)\)"
   } | str join "\n"
 
-  $list
+  $markdown
 }
