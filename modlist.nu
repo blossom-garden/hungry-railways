@@ -1,11 +1,11 @@
 #!/usr/bin/env nu
 
 # Modlist helper scripts
-def main []: nothing -> nothing {
-  help main
+export def main []: nothing -> nothing {
+  print "use --help for usage"
 }
 # Import modrinth and curseforge mods from a list of project urls
-def "main import" [
+export def import [
   modlist: path, # The modlist file to read
   --dry-run(-d)  # Do a dry run where packwiz cli wont actually be called (useful for debuging)
 ]: nothing -> nothing {
@@ -53,7 +53,7 @@ def "add cf" [id: int, --dry-run(-d)]: nothing -> nothing {
 }
 
 # Export all the mods into a modlist in markdown format
-def "main export" []: nothing -> string {
+export def "export" []: nothing -> string {
   let list: list<record<name: string, id: any, provider: string>> = ls **/*.pw.toml
   | each {|it| open $it.name}
   | where update? != null
@@ -74,7 +74,7 @@ def "main export" []: nothing -> string {
 }
 
 # Returns the most recently added files
-def "main changelog" [] {
+export def changelog [] {
   let list: list<record<name: string, id: any, provider: string>> = ls -l **/*.pw.toml
   | group-by created | transpose date count
   | first 1 | get count | get 0
