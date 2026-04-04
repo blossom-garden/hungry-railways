@@ -1,0 +1,13 @@
+name = "VUL's Create Cursors"
+filename = "VUL's Create Cursors v1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5lpz2C5Q/versions/vse6Qss8/VUL%27s%20Create%20Cursors%20v1.0.zip"
+hash-format = "sha512"
+hash = "b7bc73a5be77fd0fc134c712649f56eac2d6ed79170b269a341267664d0652c5a43887abae09a37cd75f7a3373ab5b43f9f20c3c087bf8ee0b6f7348f482a857"
+
+[update]
+[update.modrinth]
+mod-id = "5lpz2C5Q"
+version = "vse6Qss8"

@@ -40,7 +40,7 @@ def "add mr" [id: string, --dry-run(-d)]: nothing -> nothing {
     do -i { ^packwiz mr add -y --project-id $id }
   }
 }
-def "add cf" [id: string, --dry-run(-d)]: nothing -> nothing {
+def "add cf" [id: int, --dry-run(-d)]: nothing -> nothing {
   if $dry_run {
     print $"add curseforge project ($id)"
   } else {

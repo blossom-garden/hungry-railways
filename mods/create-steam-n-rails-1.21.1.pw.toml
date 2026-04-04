@@ -1,0 +1,13 @@
+name = "Steam 'n' Rails Neoforge"
+filename = "railways-0.2.0-beta+neoforge-mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L3Jv0QZI/versions/sG8TppGl/railways-0.2.0-beta%2Bneoforge-mc1.21.1.jar"
+hash-format = "sha512"
+hash = "87238622d1bff58e4ac31275498e2b520555f741062cf2dd9705fa2448acf9b373e939923773b1205fa8b073afeab5078658e39ad68dad8fbe4fba2da8167567"
+
+[update]
+[update.modrinth]
+mod-id = "L3Jv0QZI"
+version = "sG8TppGl"

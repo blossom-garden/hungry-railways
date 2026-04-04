@@ -1,0 +1,13 @@
+name = "Raw Ore to Blocks"
+filename = "raw-ore-to-blocks-1.4.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ErbaoFMu/versions/FG0QrLFl/raw-ore-to-blocks-1.4.6.jar"
+hash-format = "sha512"
+hash = "da00d8c498145eab1f55514518b7a70a5cb9db5dbe1fb5ac51da2e45b8e63285bb082ba99bc7952c64f9ca339a21ac8edcd5e6a4539447e832b99c873669a8f6"
+
+[update]
+[update.modrinth]
+mod-id = "ErbaoFMu"
+version = "FG0QrLFl"

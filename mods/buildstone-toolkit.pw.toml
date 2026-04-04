@@ -1,0 +1,13 @@
+name = "Buildstone Toolkit"
+filename = "buildstonetoolkit-neoforge-1.21.1-1.2.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/m5tBeIGD/versions/fpIWXTO0/buildstonetoolkit-neoforge-1.21.1-1.2.8.jar"
+hash-format = "sha512"
+hash = "e5ba9271525d6870e827728f20a4b9914a7b926f679d14c5683315a098fcbdfd4877a49c55e5e4eef7910a2afcb1173bda71c15ab74b4c8dd978831d8c8f6a94"
+
+[update]
+[update.modrinth]
+mod-id = "m5tBeIGD"
+version = "fpIWXTO0"

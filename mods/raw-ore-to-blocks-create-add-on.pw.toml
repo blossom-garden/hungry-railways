@@ -1,0 +1,13 @@
+name = "Raw Ore to Blocks - Create Add-on"
+filename = "raw-ore-to-blocks-create-add-on-1.4.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nE5Ewe4j/versions/xEBR8XpY/raw-ore-to-blocks-create-add-on-1.4.4.jar"
+hash-format = "sha512"
+hash = "5dc283be5bc2932adb107232d89cacd97def3f862fdbfb9029f38197e491e77820f64a4f5e1ae860d2eb773f3643b3aafbd205edaeab7fb70625e2e9418a3565"
+
+[update]
+[update.modrinth]
+mod-id = "nE5Ewe4j"
+version = "xEBR8XpY"
