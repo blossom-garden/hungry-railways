@@ -140,6 +140,11 @@ hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
 metafile = true
 
 [[files]]
+file = "mods/clientsort.pw.toml"
+hash = "89865794f0fbe908f5b5b1c2628df8f9c0aa715313d305f08f922cf7b5c9be9d"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
@@ -207,6 +212,11 @@ metafile = true
 [[files]]
 file = "mods/create-buildstone-toolkit.pw.toml"
 hash = "5d8da3f2189328f685eeb4d1ea4dd4215859245182b220a901e03961bf004df2"
+metafile = true
+
+[[files]]
+file = "mods/create-buzzy-bees.pw.toml"
+hash = "38c30134be1f73df1231e20b1d14f9cc403719503693b01f111472b89969c594"
 metafile = true
 
 [[files]]
