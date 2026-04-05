@@ -420,11 +420,6 @@ hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
 
 [[files]]
-file = "mods/enchancement.pw.toml"
-hash = "266e18277d80a22d952feb002febbf3bf2c8c4fcaa8eb78967e7b9411585dbc0"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "345aafba9f5ae662ff82825aef1384aa5cfe2e952afd28c950b1553e6be464ef"
 metafile = true
@@ -530,11 +525,6 @@ hash = "f44cc1b88af78a0c7d401b6dce4216e6712f05e4b256c3b4fe0603700f831590"
 metafile = true
 
 [[files]]
-file = "mods/illuminated.pw.toml"
-hash = "c045dc9681da3ae49ffe0e511bd2093d35edc9708ada5dc83e321e76b640009b"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "3d47b1d933d04934a606be1cbb67481860c3d68c9ed4efc387c7745d23b732a7"
 metafile = true
@@ -542,11 +532,6 @@ metafile = true
 [[files]]
 file = "mods/incendium.pw.toml"
 hash = "ef1faa467f5dfd37c40871575934dab645f15a70568e8268a9e477234bdd1c58"
-metafile = true
-
-[[files]]
-file = "mods/inventory-tabs.pw.toml"
-hash = "9129ed24edcd489cb9370b9417d5f5ca6563c1d63f1ec7157ee7ef7b379ed296"
 metafile = true
 
 [[files]]
@@ -720,11 +705,6 @@ hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
 metafile = true
 
 [[files]]
-file = "mods/portable-crafting.pw.toml"
-hash = "31a60af6254193358ebb0630f7cecd7bd4dc6efa6182d4a1c8354d45671edb9f"
-metafile = true
-
-[[files]]
 file = "mods/power-grid.pw.toml"
 hash = "3d9e6280e38ac24dac1b5e3ad67f3f68baa67f53871261282ddbb7674611b2d0"
 metafile = true
@@ -757,11 +737,6 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "b4cb292255e46d058ef9c4a6bcdf562ae539489a31d0b4bea3718042d98e5c86"
-metafile = true
-
-[[files]]
-file = "mods/reeling-scythes.pw.toml"
-hash = "d57a6987c79525a32526c7c2a78c873e5edf3f60f0a34269eece472917eb4291"
 metafile = true
 
 [[files]]

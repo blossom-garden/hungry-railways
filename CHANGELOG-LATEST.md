@@ -3,13 +3,12 @@
 <!-- markdownlint-disable first-line-h1 -->
 <!-- markdownlint-disable no-emphasis-as-heading -->
 
-**v1.1.0**
-
-**Adicionado**
-
-- [Fzzy Config](https://modrinth.com/project/hYykXjDp)
-- [oωo (owo-lib)](https://modrinth.com/project/ccKDOlHs)
+**v1.1.1**
 
 **Removido**
 
-- [True Ending - Ender Dragon Overhaul](https://modrinth.com/project/MCnBYP0b)
+- [Enchancement](https://modrinth.com/project/6hN1V6wJ)
+- [Illuminated](https://modrinth.com/project/y1Yc8XYq)
+- [Inventory Tabs](https://modrinth.com/project/VD1aynYU)
+- [Portable Crafting](https://modrinth.com/project/qmVRzDCY)
+- [Reeling Scythes](https://modrinth.com/project/YATddOpI)
