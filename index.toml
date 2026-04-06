@@ -37,11 +37,6 @@ file = "datapacks/rechiselingchipped.zip"
 hash = "cc6a4f711e9b5fbab5be190fbb307b468bd29d502397c35f828ac5e7ba42b1cb"
 
 [[files]]
-file = "datapacks/veinminer.pw.toml"
-hash = "042d273e0873bc9c33fffebef698464246824858a31f1a4ed6e6785b704491eb"
-metafile = true
-
-[[files]]
 file = "icon.png"
 hash = "5817b27ddf46f955644881464dd805bfbc1c8936aee7fdabfa0144e0c35190cd"
 
@@ -93,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/buildstone-toolkit.pw.toml"
 hash = "f8cab34e081402d9f4df9c9044981929f5dcdc86b4ebe696de3f701051e5646a"
+metafile = true
+
+[[files]]
+file = "mods/carry-on-extend.pw.toml"
+hash = "76e936055c31e852765b178c7754bd370f8c637337c250976e759868d5e838f5"
 metafile = true
 
 [[files]]
@@ -296,6 +296,16 @@ hash = "0de27c341055531ee7de9cc7b1ef9af19fbbd6e107d26801ec4f64fa60ce0502"
 metafile = true
 
 [[files]]
+file = "mods/faewulfslib.pw.toml"
+hash = "3852bddf4e63675180a51c25e3fa32d60c0cbd1e19c7117c88981a1802f2b1d8"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "7d61ad815f97afb27f7e97475e80376aa19fecf25a1b04a500a4c3a6e5055973"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "a265ccd927708aed6943024431ed28612aaf16bedf279768486193d8a956e962"
 metafile = true
@@ -336,6 +346,11 @@ hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "502d4ba2ca8c7f6f52830cfc43fc12b567023266f2b557ee2b8eea737b58f8ea"
+metafile = true
+
+[[files]]
 file = "mods/let-your-friend-eating!.pw.toml"
 hash = "930770c2b52367a37a8428b4e2683a4c0eae71b8778cac5c2827d276f1f3a14b"
 metafile = true
@@ -353,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/overbalanced.pw.toml"
 hash = "e24153d95900314c5d9735c1c8dd278839db4215fa956f1351d5e97f2dafeced"
+metafile = true
+
+[[files]]
+file = "mods/piggyback.pw.toml"
+hash = "4c460ee8a3e733866449445daca85d539711752fdc4e6aa2205ff17785625250"
 metafile = true
 
 [[files]]
@@ -458,6 +478,11 @@ metafile = true
 [[files]]
 file = "mods/vb-mob-variants-compat.pw.toml"
 hash = "ce2c77ea4776ab4945d50f8eb286d673abb946320d2aa8a3b956b58e4353fc50"
+metafile = true
+
+[[files]]
+file = "mods/vein_miner.pw.toml"
+hash = "8f1e7abff186dbd62de13f2b677c4fa7451267ea033f675c7d6df83ad78a94c2"
 metafile = true
 
 [[files]]
