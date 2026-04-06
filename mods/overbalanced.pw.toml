@@ -1,6 +1,6 @@
 name = "Create: Overbalanced"
 filename = "overbalanced-1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/PsdnrXan/versions/CqxebqMo/overbalanced-1.jar"

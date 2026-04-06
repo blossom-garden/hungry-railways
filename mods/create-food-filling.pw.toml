@@ -1,0 +1,13 @@
+name = "Create: Food Filling"
+filename = "Create-Food-Filling-1.2.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/R1u731qJ/versions/HblaWON9/Create-Food-Filling-1.2.0.jar"
+hash-format = "sha512"
+hash = "8acd8db7f614eb4b996a5e7cbe5b4df8c03b9bd41c54f9c089aa86b2c5d0d973d2c78f4850212ef778ec9abd18d35733d78c22ceaa9f8e8399ee6df91cdfab54"
+
+[update]
+[update.modrinth]
+mod-id = "R1u731qJ"
+version = "HblaWON9"
