@@ -221,11 +221,6 @@ hash = "3fbcb6a8065b89349d223e93fc5d58c1675bc11d1fbee86c4a9976e0f69f482d"
 metafile = true
 
 [[files]]
-file = "mods/create-dynamic-lights.pw.toml"
-hash = "56ff7fa56eb6ae7d32cdd1f7ce84022d1ed25b416dd9142572ef0d2360d49ec9"
-metafile = true
-
-[[files]]
 file = "mods/create-enchantable-machinery.pw.toml"
 hash = "ff95732644994b3b955de5b0c927b3caccce9d22c19e53b95da96b887cff2525"
 metafile = true

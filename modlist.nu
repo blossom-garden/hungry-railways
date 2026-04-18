@@ -119,8 +119,17 @@ export def "changelog" []: nothing -> string {
   let added_links: string = $added | each {|i| $i | generate-link } | str join "\n"
   let removed_links: string = $removed | each {|i| $i | generate-link } | str join "\n"
 
-  mut markdown: string = ""
-  if ($added_links | is-not-empty) { $markdown = ([$markdown $"**Adicionado**\n\n($added_links)\n\n"] | str join "") }
-  if ($removed_links | is-not-empty) { $markdown = ([$markdown $"**Removido**\n\n($removed_links)\n\n"] | str join "") }
+  mut markdown: string = $"**((open pack.toml).version)**"
+  if ($added_links | is-not-empty) { $markdown = ([$markdown $"**Adicionado**\n\n($added_links)"] | str join "\n\n") }
+  if ($removed_links | is-not-empty) { $markdown = ([$markdown $"**Removido**\n\n($removed_links)"] | str join "\n\n") }
   $markdown
+}
+
+def semver-level [] {[ "major" "minor" "patch" "alpha" "beta" "rc" "release"]}
+
+# Semver Bump the pack
+export def bump [level: string@semver-level] {
+  mut pack: table = (open pack.toml)
+  $pack.version = $"($pack.version | semver bump patch)"
+  ($pack | save -fp pack.toml)
 }
