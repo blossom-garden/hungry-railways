@@ -1,12 +1,12 @@
 name = "Hungry Railways"
 author = "kodiitulip"
-version = "2.0.0"
+version = "3.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e9d64e0ae66dba5dec64b898d714002bf62dc40546be291a4cb73d00f0ba926d"
+hash = "ffc1bcacc4fcce125a6ce2c979ca7de99ab29d08bd7905f1e8817bf8135fa530"
 
 [versions]
 minecraft = "1.21.1"
