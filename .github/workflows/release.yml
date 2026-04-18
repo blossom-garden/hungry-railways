@@ -30,7 +30,7 @@ jobs:
         id: info
         run: |
           let pack = (open ./pack.toml)
-          let changelog = (open ./CHANGELOG-LATEST.md | lines | skip 5 | str join "\n")
+          let changelog = (open -r ./CHANGELOG-LATEST.md | lines | skip 5 | str join "\n")
           if (not ("out" | path exists)) { mkdir out }
           $"version=($pack.version)
           loaders=($pack.versions | columns | where ($it != "minecraft") | to json -r)
