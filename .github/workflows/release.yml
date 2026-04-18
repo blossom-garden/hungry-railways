@@ -23,7 +23,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: hustcer/setup-nu@v3
         with:
-          version: "*"
+          version: "0.111.0"
           enable-plugins: true
 
       - name: Get Info
