@@ -446,11 +446,6 @@ hash = "a9b043b218bd43286ec498ad891715e3871aa2a4a6f1ba4838b4eb5d0dbf66a1"
 metafile = true
 
 [[files]]
-file = "mods/scalablelux.pw.toml"
-hash = "2c1661e65d47c2942d2c3e926698d0762672224f1925c7f25105b964ce25b093"
-metafile = true
-
-[[files]]
 file = "mods/sg-economy-api.pw.toml"
 hash = "a1dbf4071802c0b8bcd8436da6953842fc4d0a8f80ab6eb66d298edc6e30c616"
 metafile = true
