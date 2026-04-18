@@ -66,11 +66,6 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
-file = "mods/automate-stones.pw.toml"
-hash = "a14b382a509a3b792cb7a66860bda4f29cf77e4107d37f3a5d53f8ee45922b81"
-metafile = true
-
-[[files]]
 file = "mods/backpacked.pw.toml"
 hash = "e0a479fef621fd91d0a022358046eb6af947fd5d4191b1286504f6b958605686"
 metafile = true
@@ -258,11 +253,6 @@ metafile = true
 [[files]]
 file = "mods/create-randomize-filters.pw.toml"
 hash = "59467ecda962858e575fe59ddedfeab19f2a3c85128070a3f8ef6ad6575debfa"
-metafile = true
-
-[[files]]
-file = "mods/create-ratatouille.pw.toml"
-hash = "4677335e3f0f33cc98acec5b4dd8cb092a63c913fa41f1b64f2096bd57639fcf"
 metafile = true
 
 [[files]]
