@@ -567,6 +567,11 @@ hash = "82d238f419db2d728dcaa850d3f4de11cbb3f504a02e334e33daeb95b9d93701"
 metafile = true
 
 [[files]]
+file = "mods/too-fast.pw.toml"
+hash = "63da0a2850babdf37f9511b17d2962fbaa9ce980d4c8478299767954df4efc19"
+metafile = true
+
+[[files]]
 file = "mods/tortuga-foda.jar"
 hash = "b51c037d8d164540c2bff22917f595e4e2a5ff0298c380c556b8cf211c77e57e"
 
