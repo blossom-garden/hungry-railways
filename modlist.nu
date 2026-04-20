@@ -104,7 +104,7 @@ def "get removed" [diff: table<status: string, file: string>]: nothing -> table<
 
 # Returns the most recently added files
 export def "changelog" []: nothing -> string {
-  let diff: table<status: string, file: string> = git diff --name-status HEAD~2...
+  let diff: table<status: string, file: string> = git diff --name-status HEAD~1...
   | str replace -r -a "\t" "»¦«"
   | lines | where $it =~ ".pw.toml"
   | split column "»¦«" status file
@@ -130,6 +130,6 @@ def semver-level [] {[ "major" "minor" "patch" "alpha" "beta" "rc" "release"]}
 # Semver Bump the pack
 export def bump [level: string@semver-level] {
   mut pack: table = (open pack.toml)
-  $pack.version = $"($pack.version | semver bump patch)"
+  $pack.version = $"($pack.version | semver bump $level)"
   ($pack | save -fp pack.toml)
 }

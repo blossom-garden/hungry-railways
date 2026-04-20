@@ -473,7 +473,7 @@ metafile = true
 
 [[files]]
 file = "mods/patpat.pw.toml"
-hash = "717cb374ced61a1f2fd69d62a9d5ff386807c69aa5f19c6d66e52218a0507f7c"
+hash = "40b22474c20236f794e76be4d3343107e793a379f09b596c631e73836f085f32"
 metafile = true
 
 [[files]]
