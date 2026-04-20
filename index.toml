@@ -532,11 +532,6 @@ hash = "0bef7b3dd4758a661d3e6827bd390c12ff8a3ede4a66bb2e01e3c760f02bd509"
 metafile = true
 
 [[files]]
-file = "mods/simple-datapacks.pw.toml"
-hash = "e50b8e88a85612c8754d4f8d1db10972a35658e4b56516a68e207b3e9e89f6e1"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
 metafile = true
