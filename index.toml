@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/global_packs.toml"
+hash = "f6b6ee54d5a8f0caf59ffb15330ad89c7628c127a7f7c7ca247175e308868b53"
+
+[[files]]
 file = "config/modpack_defaults/config/entity_model_features.json"
 hash = "50b32ba213c95bc592f623d9b465a9b81e7fbc9b3e4b42d45be5d6c632752f95"
 
@@ -72,7 +76,7 @@ hash = "9616d1a86a27dd5759f2645866f4160f5ebfd6a2f0d48e868fc16dd13cba6daf"
 
 [[files]]
 file = "datapacks/unbreakables.zip"
-hash = "cde7a5ae0b198d0025718add887744cae6ef349bd1e7a4edd5766b4f1994cf6b"
+hash = "6a54e90bc23649f0de12f236ff9790eec3195ca447c5d613ede122500e486192"
 
 [[files]]
 file = "datapacks/vanilla-tweaks-crafting-tweaks.zip"
