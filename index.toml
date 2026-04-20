@@ -277,6 +277,11 @@ hash = "ff95732644994b3b955de5b0c927b3caccce9d22c19e53b95da96b887cff2525"
 metafile = true
 
 [[files]]
+file = "mods/create-fluid.pw.toml"
+hash = "756529d23946ab0e86af76745307528c6fe8a6cb81fb404dd0b84a6562ff6a1c"
+metafile = true
+
+[[files]]
 file = "mods/create-food-filling.pw.toml"
 hash = "a40d57171c7bed08d36d143a7f5e8b7d9a8982b736d53f3fd3732acc036eff2a"
 metafile = true
