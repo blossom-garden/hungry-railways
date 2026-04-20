@@ -422,6 +422,11 @@ hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
 metafile = true
 
 [[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "a7f2ae8ea415e95ce1a3518b66edcaf124d8903ff9101d07331f7fec92b3400f"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
 metafile = true
@@ -449,11 +454,6 @@ metafile = true
 [[files]]
 file = "mods/let-your-friend-eating!.pw.toml"
 hash = "930770c2b52367a37a8428b4e2683a4c0eae71b8778cac5c2827d276f1f3a14b"
-metafile = true
-
-[[files]]
-file = "mods/magic-coins.pw.toml"
-hash = "f86f2908b1b8047049d0beff5cb67ae20cd5efb61a0e92287ecda2a1f64ad21e"
 metafile = true
 
 [[files]]
@@ -519,11 +519,6 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "a9b043b218bd43286ec498ad891715e3871aa2a4a6f1ba4838b4eb5d0dbf66a1"
-metafile = true
-
-[[files]]
-file = "mods/sg-economy-api.pw.toml"
-hash = "a1dbf4071802c0b8bcd8436da6953842fc4d0a8f80ab6eb66d298edc6e30c616"
 metafile = true
 
 [[files]]
