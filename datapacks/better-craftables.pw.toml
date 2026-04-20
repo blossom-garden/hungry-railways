@@ -1,0 +1,13 @@
+name = "Better Craftables"
+filename = "BetterCraftables_v2.0.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BLG002oq/versions/FA7m92F4/BetterCraftables_v2.0.0.zip"
+hash-format = "sha512"
+hash = "63f241463e930f213d814b526ce0514df53011d5db64d66fc3527ca08baf49a4b766c0423b73fbf1a7166d1e9bd3d8ad7cdd168bdbd67790a6a2e5bec5114647"
+
+[update]
+[update.modrinth]
+mod-id = "BLG002oq"
+version = "FA7m92F4"

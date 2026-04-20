@@ -17,29 +17,70 @@ file = "config/modpack_defaults/options.txt"
 hash = "cb3e78ca87e4943027fc074fc6dee30cbdd4cca4f4c9b5f46ed1f569b1efd994"
 
 [[files]]
-file = "datapacks/BetterCraftables_v6.3.1_mc1.21.9-26.1snap1.zip"
-hash = "972b36189cb324054537f522f7a125c5c2588f8ac05e109ff7d19f177705c025"
+file = "datapacks/age lock v1.0.0 (MC 1.21-1.21.11).zip"
+hash = "1a319233d076c84e7ee3a58a830bdef40cb63f5c9af780b864e352caf8b94fc5"
 
 [[files]]
-file = "datapacks/BetterUnpackables_v3.1.0_mc1.21.9-1.21.11.zip"
-hash = "d499878a306edbbe4cf0543765ef91a4a04d97b7acc85dbf43e95593311c5975"
+file = "datapacks/armored elytra v2.0.9 (MC 1.21-1.21.11).zip"
+hash = "de9f08579257cd9fbbdd944a9a221176b82bb35e687d6cf123ee0d71555a410b"
 
 [[files]]
-file = "datapacks/ghastly-enchantments.zip"
-hash = "d80e9a246a9718dae8212363982edf2ab9fde3aa7c0e1cfe1f57d760ed481d54"
+file = "datapacks/bat membranes v1.0.16 (MC 1.21-1.21.11).zip"
+hash = "b7390196958180b8aab987bdcf3fa62d48d865f31c9d7e42ce5daf28d351b23e"
+
+[[files]]
+file = "datapacks/better-craftables.pw.toml"
+hash = "307fb1be0391005ade6ad146c879dd7d9715580e5ed0b5f6dd08f6e6691107aa"
+metafile = true
+
+[[files]]
+file = "datapacks/better-unpackables.pw.toml"
+hash = "a554286dcbcb8ce0ff3b1a44f827aa34757d8e9e8a20cc3f1b36e3e2a7a7fd12"
+metafile = true
+
+[[files]]
+file = "datapacks/cauldron concrete v3.0.10 (MC 1.21-1.21.11).zip"
+hash = "1f952e97fd392bd0ad34daf21d12513f306042fde1792accee39c09517ab8f2c"
+
+[[files]]
+file = "datapacks/cauldron mud v1.0.8 (MC 1.21-1.21.11).zip"
+hash = "762bf5fbcc1e8ede6dd63d2c4f21db0d3ddae4fe842fb0a651ca8f016eea7692"
+
+[[files]]
+file = "datapacks/glass always drops v1.0.7 (MC 1.21-1.21.11).zip"
+hash = "93f80cf18736c422e5ca9f294f67be1ac341fad2baff11a56ffdb69a2b4eda26"
+
+[[files]]
+file = "datapacks/more effective tools v1.0.9 (MC 1.21-1.21.11).zip"
+hash = "2dc082fe92b026ce3155a08d2a1ac58916549a094f93345896e2842f66731934"
 
 [[files]]
 file = "datapacks/nametag-backport.zip"
-hash = "a2a4ae48e4a242423e5dd7648729d6f76ee8f2a7c48ce87a174276a4bfa911d6"
+hash = "f2e0682f9b00c8118cc17e4e95d84ecdb662abdffd5a50979dbae4029f353cae"
 
 [[files]]
-file = "datapacks/rechiselingchipped.zip"
-hash = "cc6a4f711e9b5fbab5be190fbb307b468bd29d502397c35f828ac5e7ba42b1cb"
+file = "datapacks/painting picker v1.1.2 (MC 1.21-1.21.11).zip"
+hash = "0960876d4b89255d47ce4b1f96cf40b3a321d6e97ceb5aae47cd3dca0b00a57d"
 
 [[files]]
-file = "datapacks/veinminer.pw.toml"
-hash = "042d273e0873bc9c33fffebef698464246824858a31f1a4ed6e6785b704491eb"
-metafile = true
+file = "datapacks/silk touch budding amethyst v1.0.7 (MC 1.21-1.21.11).zip"
+hash = "e545a2eaef28d437b2b19235015d37e48833f386a084b9aec12cd5d1cb174dcf"
+
+[[files]]
+file = "datapacks/storm channeling v1.0.7 (MC 1.21-1.21.11).zip"
+hash = "9616d1a86a27dd5759f2645866f4160f5ebfd6a2f0d48e868fc16dd13cba6daf"
+
+[[files]]
+file = "datapacks/unbreakables.zip"
+hash = "cde7a5ae0b198d0025718add887744cae6ef349bd1e7a4edd5766b4f1994cf6b"
+
+[[files]]
+file = "datapacks/vanilla-tweaks-crafting-tweaks.zip"
+hash = "410ec60209f127fba01ebe482cf2962b3a0fc9cb9ba7646728dfb101b6f7fe9e"
+
+[[files]]
+file = "datapacks/xp bottling v1.1.16 (MC 1.21-1.21.11).zip"
+hash = "7a0d9b2d311f47742a45393166220fabaa7685c4006163b24955f3a886faa570"
 
 [[files]]
 file = "icon.png"
@@ -133,6 +174,21 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/collectall-ores-trees-and-crops.pw.toml"
+hash = "c24deca3f7a0b6d009d83f8b56b995f8ae6ab915ff879fd8feeb7022aabc45ce"
+metafile = true
+
+[[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "52e2cb54ee2933bf00e9b7886f47938a2dce1bf998293be2b38552083ffa5f9a"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "e487d315e7a44f917cd1ddc2da1b26e65968bc19fe6c0ac868dab3d2bb97bbf1"
 metafile = true
 
 [[files]]
@@ -341,6 +397,11 @@ hash = "a265ccd927708aed6943024431ed28612aaf16bedf279768486193d8a956e962"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
 metafile = true
@@ -371,6 +432,11 @@ hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
 metafile = true
 
 [[files]]
+file = "mods/kiss-a-friend.pw.toml"
+hash = "ca05843fd13b37e97776534c18a5ef36057f6b359f5a1073747d4b19fad84652"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
@@ -396,8 +462,18 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
+file = "mods/omnicut-better-wood-stone-cutter.pw.toml"
+hash = "f81c75d8883fdafc7da5fe461f39ed3b9001100cc092cc8238774a8ec7ab9798"
+metafile = true
+
+[[files]]
 file = "mods/overbalanced.pw.toml"
 hash = "e24153d95900314c5d9735c1c8dd278839db4215fa956f1351d5e97f2dafeced"
+metafile = true
+
+[[files]]
+file = "mods/patpat.pw.toml"
+hash = "717cb374ced61a1f2fd69d62a9d5ff386807c69aa5f19c6d66e52218a0507f7c"
 metafile = true
 
 [[files]]
@@ -457,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-datapacks.pw.toml"
-hash = "e33f126198bd780e7963c54a9c08fc6a7753ff3d43a82977803caee8adb76200"
+hash = "e50b8e88a85612c8754d4f8d1db10972a35658e4b56516a68e207b3e9e89f6e1"
 metafile = true
 
 [[files]]

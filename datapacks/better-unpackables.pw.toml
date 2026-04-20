@@ -1,0 +1,13 @@
+name = "Better Unpackables"
+filename = "BetterUnpackables_v1.1.2_mc1.21.3.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bUmlsA7b/versions/DizlA9UQ/BetterUnpackables_v1.1.2_mc1.21.3.zip"
+hash-format = "sha512"
+hash = "2a3c9e89bf0ca41c71d261c140394fb0bbaf3e07f792bf87b610cff24778352159a0f0d6a64bbc7cb1d08c43177cf3a78f56393814f0cf5b6277d3d759119580"
+
+[update]
+[update.modrinth]
+mod-id = "bUmlsA7b"
+version = "DizlA9UQ"

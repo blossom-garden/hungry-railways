@@ -1,0 +1,13 @@
+name = "PatPat-1.2.4+1.21.1+neoforge.jar"
+filename = "PatPat-1.2.4+1.21.1+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dw7LChq9/versions/4AbDTwoo/PatPat-1.2.4%2B1.21.1%2Bneoforge.jar"
+hash-format = "sha256"
+hash = "15a78091aba5b48ceed1d1320bddcae64e953e420ba94c72359980ed6b31d9d8"
+
+[update]
+[update.modrinth]
+mod-id = "dw7LChq9"
+version = "4AbDTwoo"

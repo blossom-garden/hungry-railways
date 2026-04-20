@@ -1,0 +1,13 @@
+name = "CollectAll - Ores, Trees and Crops"
+filename = "collectall-neoforge-1.21-1.2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VbWdpcny/versions/dt8hy15m/collectall-neoforge-1.21-1.2.5.jar"
+hash-format = "sha512"
+hash = "d5ec4f89410d6ce406bc0a26d21480b6ff7eb56010ba974e9557f7163631ae9c89d1c60e2a8687bc4c5398d6bc3383ddf9d91b03d9ab019193ffdc271908ee10"
+
+[update]
+[update.modrinth]
+mod-id = "VbWdpcny"
+version = "dt8hy15m"

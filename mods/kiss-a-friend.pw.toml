@@ -1,0 +1,13 @@
+name = "Kiss a Friend!"
+filename = "kiss-a-friend-1.0.0+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VUQV5zGn/versions/xDfUep3x/kiss-a-friend-1.0.0%2B1.21.jar"
+hash-format = "sha512"
+hash = "ef1a2042b87c98b5c5c0fb0f6aef6e4c7a46d8dbd104d33fc8eacf1dfc1f9342dd6f34cd74513207ffd390404165d0ebc2d64274d30afde544f34217858422f9"
+
+[update]
+[update.modrinth]
+mod-id = "VUQV5zGn"
+version = "xDfUep3x"
